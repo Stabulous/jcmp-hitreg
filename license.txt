@@ -1,2 +1,2 @@
-Anyone is free to replicate or distribute these files, provided this license is distributed with it.
+Anyone is free to replicate or distribute these files, provided this license is distributed with them.
 These files may not be used commercially without obtaining prior permission from the creators. Commercial use includes but is not limited to selling gameplay benefits on a server containing these files.
