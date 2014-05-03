@@ -1,2 +1,2 @@
-Anyone is free to replicate or distribute this software, in whole or in part, modified or not, provided this license is included with the distribution.
+Anyone is free to replicate or distribute this software, in whole or in part, modified or not, provided this license is included with the distribution, provided that they comply with the next sentence.
 This software may not be used, in whole or in part, commercially without obtaining prior permission from the original creators. Commercial use includes but is not limited to selling gameplay benefits on a server containing these files.
